@@ -35,6 +35,8 @@ Observation
 
 
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/35dcc584-8d87-42b0-90b8-1abebaf8e8c3" />
+
 
 1. AC Input Waveform
 The AC input waveform is observed in LTspice before applying it to the transformer.
